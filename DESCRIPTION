@@ -1,0 +1,16 @@
+Package: dlrm
+Type: Package
+Title: Estimate the Model Logistic Regression dichotomous.
+Version: 0.1.0
+Date: 2017-07-26
+depends: R(>= 3.0.1)
+Author: Humberto Llinas [aut, cre],
+       Jorge Villalba [cre],
+       Omar Fabregas [cre].
+Maintainer: Jorge villalba <jlvia1191@gmail.com>
+Description: This package provides some functions
+  To calculate the Saturated Model in Logistic Regression.
+License: GPL-2
+URL: https://github.com/jlvia1191/dlrm.git
+LazyData: TRUE
+RoxygenNote: 6.0.1
